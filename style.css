@@ -1,0 +1,33 @@
+body{
+	position:relative;
+}
+img{
+	width: 200px;
+	height: 200px;
+	border: 1px solid yellow;
+}
+img#uno{
+	position: absolute;
+	top: 100px;
+	left: 100px;
+}
+img#dos{
+	position: absolute;
+	top: 200px;
+	left: 200px;
+}
+img#tres{
+	position: absolute;
+	top: 300px;
+	left: 300px;
+}
+img#cuatro{
+	position: absolute;
+	top: 200px;
+	left: 450px;
+}
+img#cinco{
+	position: absolute;
+	top: 100px;
+	left: 550px;
+}
